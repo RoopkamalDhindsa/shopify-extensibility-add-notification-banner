@@ -68,5 +68,6 @@ Press Ctrl+C to stop the app development environment and then, run below in term
 npm run shopify app deploy
 ```
 
-## Step 3: Edit product upsell data. 
-You can change by editing the file `/extensions/product-offer/src/Checkout.jsx`.
+## Step 3: Edit notifications data. 
+Edit the settings of ambeded app in customize checkout area, to set what message to show.
+You can change the keys and value data of fields by editing the file `/extensions/product-offer/src/Checkout.jsx`.
